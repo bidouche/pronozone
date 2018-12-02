@@ -1,0 +1,69 @@
+
+<div class="container col-md-12" id="container-général">
+	
+		
+			<div class='row' id= "navbar-général">
+				<div class="navbar col-md-2 text-center" id='link'>
+					<%= link_to "Pronozone", '#', :class => 'navbar-brand link'%>
+				</div>
+				<div class= "navbar col-md-4" >
+					
+						<div class="col-md-2  ">
+							<%= link_to "Live actu",'#', :class => "navbar-brand"%>
+						</div>
+						<div class="col-md-2 offset-md-8  text-center">
+							 <%= link_to "Mes résultats", "#", :class => "navbar-brand"%>
+						</div>	
+				
+				</div>
+				<div class=" navbar col-md-4">
+					<div class="btn btn-warning col-md-2 offset-8  text-center">
+							bet now
+					</div>
+					<div class="col-md-2 ">
+						Avatar 
+						
+					</div>
+						
+				</div>
+				<div class="navbar col-md-2 text-center">
+					LOGO
+				</div>
+		
+			</div>
+
+	<div class = "row h-100">
+		<div class= "sidebar col-md-2 h-100 " id= "sidebar-général">
+			
+				
+				<ul>
+				</br>
+					<li>
+						 Etienne
+					</li>
+					<li>
+						Alex 
+					</li>
+				</ul>
+		
+
+	
+			
+		</div>
+		<div class= " sidebar col-md-8 h-100" id= "content-container">
+
+
+				<div class="row h-100">
+					<div class="navbar col-md-6">
+						dffdfdfdfddffddffdfddffdfdfd
+					</div>
+					<div class=" navbar col-md-6">
+						fdfdffd
+					</div>
+				</div>
+		</div>
+		<div class= "sidebar col-md-2 h-100 " id= "sidebar-général">
+		</div>
+	</div>
+	
+</div>
